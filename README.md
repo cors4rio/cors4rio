@@ -14,5 +14,3 @@
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div><br/>
-
-"Atulamente estou estudando para desenvolver novas habilidades dentro das tecnologias que já conheço, usando as necessidades que aparecem dentro do meu ambiente de trabalho para agregar e ajudar minha equipe."
