@@ -1,5 +1,5 @@
-<h1 align="center">Olá! 👋 Eu sou o Ícaro Conceição</h1>
-<h3 align="center">Desenvolvedor Back-end | Java & Python ☕🐍 | Automação & Engenharia de Dados 🚀</h3>
+<h1 align="center">Ícaro Conceição</h1>
+<h3 align="center">Desenvolvedor Back-end | Java &amp; Python | Automação, Engenharia de Dados &amp; IAM</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/%C3%ADcaro-concei%C3%A7%C3%A3o-551b3311a/" target="_blank">
@@ -12,36 +12,44 @@
 
 ---
 
-### 🇧🇷 Português
+### Português
 
-🔭 Atuo como **desenvolvedor back-end**, com **Java** e **Python** como minhas linguagens principais.
-☕ Em **Java**, construo APIs REST robustas com **Spring Boot**, **Spring Security + JWT**, **PostgreSQL** e **Flyway**.
-🐍 Em **Python**, desenvolvo **automações (RPA)**, **engenharia de dados** e **integrações fiscais/contábeis** (Playwright, SQL Server, APIs do Google).
-💻 Também crio interfaces modernas com **React + TypeScript + TailwindCSS**.
-🌱 Sempre estudando arquitetura de software, boas práticas e automação.
-📫 Como me encontrar: **icaro.corsario@gmail.com**
+Desenvolvedor **back-end** orientado a resolver problemas reais de negócio por meio de software confiável, automação e dados. Tenho **Java** e **Python** como linguagens principais e atuo de ponta a ponta: do desenho da arquitetura à entrega em produção.
 
-### 🇺🇸 English
+- **Java &amp; Spring** — Desenvolvo APIs REST robustas e escaláveis com **Spring Boot**, aplicando **Spring Security**, **JWT** e **OAuth2** para autenticação e autorização, persistência com **Spring Data JPA/Hibernate**, versionamento de banco com **Flyway** e documentação via **Swagger/OpenAPI**.
+- **Python &amp; Automação** — Construo soluções de **automação de processos (RPA)**, **engenharia de dados** e **integrações fiscais e contábeis**, utilizando Playwright, SQL Server e APIs do Google para eliminar tarefas manuais e repetitivas.
+- **Identidade &amp; Acesso (IAM)** — Trabalho com gestão de identidade e integração a provedores como **Microsoft Entra ID**, **Keycloak** e **Auth0**, com base nos protocolos **OAuth2** e **OpenID Connect**.
+- **Front-end** — Também desenvolvo interfaces modernas com **React**, **TypeScript** e **TailwindCSS** quando o projeto exige uma solução completa.
 
-🔭 I'm a **back-end developer**, with **Java** and **Python** as my main languages.
-☕ With **Java**, I build robust REST APIs using **Spring Boot**, **Spring Security + JWT**, **PostgreSQL** and **Flyway**.
-🐍 With **Python**, I develop **automation (RPA)**, **data engineering** and **fiscal/accounting integrations** (Playwright, SQL Server, Google APIs).
-💻 I also craft modern interfaces with **React + TypeScript + TailwindCSS**.
-🌱 Always learning software architecture, best practices and automation.
-📫 Reach me at: **icaro.corsario@gmail.com**
+Tenho foco contínuo em **boas práticas**, **arquitetura limpa**, **testes automatizados** e código sustentável.
+
+**Contato:** icaro.corsario@gmail.com
+
+### English
+
+**Back-end developer** focused on solving real business problems through reliable software, automation and data. **Java** and **Python** are my core languages, and I work end to end — from architecture design to production delivery.
+
+- **Java &amp; Spring** — I build robust, scalable REST APIs with **Spring Boot**, applying **Spring Security**, **JWT** and **OAuth2** for authentication and authorization, persistence with **Spring Data JPA/Hibernate**, database versioning with **Flyway**, and documentation through **Swagger/OpenAPI**.
+- **Python &amp; Automation** — I develop **process automation (RPA)**, **data engineering** and **fiscal/accounting integrations** using Playwright, SQL Server and Google APIs to remove manual, repetitive work.
+- **Identity &amp; Access (IAM)** — I work with identity management and integration with providers such as **Microsoft Entra ID**, **Keycloak** and **Auth0**, based on the **OAuth2** and **OpenID Connect** protocols.
+- **Front-end** — I also build modern interfaces with **React**, **TypeScript** and **TailwindCSS** whenever a full solution is required.
+
+I keep a continuous focus on **best practices**, **clean architecture**, **automated testing** and maintainable code.
+
+**Contact:** icaro.corsario@gmail.com
 
 ---
 
-### ⭐ Linguagens Principais | Core Languages
+### Linguagens Principais | Core Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### 🛠️ Tecnologias & Ferramentas | Tech Stack
+### Tecnologias &amp; Ferramentas | Tech Stack
 
-#### ☕ Ecossistema Java | Java Ecosystem
+#### Ecossistema Java | Java Ecosystem
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
@@ -56,7 +64,7 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </p>
 
-#### 🔐 Autenticação & IAM | Auth & Identity (IAM)
+#### Autenticação &amp; IAM | Auth &amp; Identity (IAM)
 <p>
   <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
@@ -67,7 +75,7 @@
   <img src="https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white"/>
 </p>
 
-#### 🐍 Ecossistema Python | Python Ecosystem
+#### Ecossistema Python | Python Ecosystem
 <p>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -77,7 +85,7 @@
   <img src="https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-#### 🌐 Front-end
+#### Front-end
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -87,7 +95,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-#### 🗄️ Banco de Dados, Cloud & DevOps | Database, Cloud & DevOps
+#### Banco de Dados, Cloud &amp; DevOps | Database, Cloud &amp; DevOps
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
@@ -99,7 +107,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas | My GitHub Stats
+### Estatísticas | GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cors4rio&show_icons=true&count_private=true&theme=dracula&include_all_commits=true"/>
