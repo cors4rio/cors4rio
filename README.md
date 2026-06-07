@@ -102,16 +102,12 @@
 ### 📊 Minhas Estatísticas | My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cors4rio&show_icons=true&count_private=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cors4rio&layout=compact&langs_count=8&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cors4rio&show_icons=true&count_private=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cors4rio&layout=compact&langs_count=8&theme=dracula&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cors4rio&theme=dracula" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cors4rio&theme=dracula&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://streak-stats.demolab.com/?user=cors4rio&theme=dracula" alt="GitHub Streak"/>
 </p>
 
 ---
